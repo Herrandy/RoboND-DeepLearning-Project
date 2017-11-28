@@ -4,9 +4,9 @@
 
 [//]: # (Image References)
 
-[network]: ../data/imgs/network.png
-[conv]: ../data/imgs/1x1conv.png
-[training]: ../data/imgs/training.png
+[network]: ./data/imgs/network.png
+[conv]: ./data/imgs/1x1conv.png
+[training]: ./data/imgs/training.png
 
 ### Introduction:
 
